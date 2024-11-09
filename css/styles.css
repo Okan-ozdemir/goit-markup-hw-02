@@ -88,6 +88,7 @@ p {
 }
 /* second section */
 
+/* third section */
 h2 {
   font-size: 36px;
   line-height: 1.11;
@@ -96,3 +97,9 @@ h2 {
   text-transform: capitalize;
   color: #2e2f42;
 }
+
+.Team {
+  background-color: #f4f4fd;
+}
+
+/* third section */
