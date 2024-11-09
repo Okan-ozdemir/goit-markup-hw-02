@@ -49,13 +49,13 @@ span {
   color: #404bbf;
 }
 
-li a{
+a.menü-item{
 color: #2e2f42;
 }
-a:hover{
+a.menü-item:hover{
 color: #404bbf;
 }
-a:focus{
+a menü-item:focus{
 color: #404bbf;
 }
 /* header area */
