@@ -52,10 +52,10 @@ span {
 a.menü-item{
 color: #2e2f42;
 }
-a.menü-item:hover{
+a:hover{
 color: #404bbf;
 }
-a menü-item:focus{
+a:focus{
 color: #404bbf;
 }
 /* header area */
