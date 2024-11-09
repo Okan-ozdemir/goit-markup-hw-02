@@ -19,7 +19,7 @@ span {
   color: #2e2f42;
 }
 
-a {
+.menu-item {
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
@@ -27,16 +27,26 @@ a {
   color: #434455;
 }
 
-a:hover {
+.menu_item:hover,
+.menu_item:focus {
   color: #404bbf;
 }
 
-a:focus {
-  color: #404bbf;
-}
-
-address {
+.contact_info {
   font-style: normal;
+}
+
+.contact_item {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+  text-decoration: none;
+}
+
+.contact_item:hover,
+.contact_item:focus {
+  color: #404bbf;
 }
 /* header area */
 
