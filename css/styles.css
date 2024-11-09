@@ -50,13 +50,13 @@ span {
 }
 
 a{
-color #2e2f42;
+color: #2e2f42;
 }
 a:hover{
-color #404bbf;
+color: #404bbf;
 }
 a:focus{
-color #404bbf;
+color: #404bbf;
 }
 /* header area */
 
