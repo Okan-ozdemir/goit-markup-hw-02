@@ -48,6 +48,16 @@ span {
 .contact_item:focus {
   color: #404bbf;
 }
+
+a{
+color #2e2f42;
+}
+a:hover{
+color #404bbf;
+}
+a:focus{
+color #404bbf;
+}
 /* header area */
 
 /* first section */
