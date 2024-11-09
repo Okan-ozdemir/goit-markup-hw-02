@@ -1,38 +1,4 @@
 /* header area */
-
-.menu_item {
-  font-weight: 500; /* Yazı kalınlığı */
-  font-size: 16px; /* Yazı tipi boyutu */
-  line-height: 1.5; /* Satır aralığı */
-  letter-spacing: 0.02em; /* Harf aralığı */
-  color: #2e2f42; /* Metin rengi */
-  text-decoration: none;
-}
-
-.menu_item:hover,
-.menu_item:focus {
-  color: #404bbf; /* Fare üzerine gelince ve odaklanınca metin rengi */
-}
-
-/* <address> etiketine uygulanan stil */
-.contact_info {
-  font-style: normal; /* İtalik özelliğini kaldırır */
-}
-
-/* İletişim bağlantı stilleri */
-.contact_item {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
-  text-decoration: none;
-}
-
-.contact_item:hover,
-.contact_item:focus {
-  color: #404bbf; /* Fare üzerine gelince ve odaklanınca metin rengi */
-}
-
 body {
   font-family: "Roboto", sans-serif;
   color: #434455;
