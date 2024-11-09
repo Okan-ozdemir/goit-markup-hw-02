@@ -6,7 +6,16 @@ body {
 
 footer {
   font-family: "Raleway", sans-serif;
-  color: #2e2f42;
+  background-color: #2e2f42;
+}
+
+p {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
+}
+footer span {
+  color: #f4f4fd;
 }
 
 h1 {
@@ -15,6 +24,15 @@ h1 {
   line-height: 1.07;
   text-align: center;
   color: #ffffff;
+}
+
+h2 {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
 }
 
 h3 {
@@ -26,7 +44,7 @@ h3 {
 }
 
 .logo {
-  font-family: "RALEWAY", sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
@@ -35,32 +53,23 @@ h3 {
   color: #4d5ae5;
 }
 
-.logo span {
+span {
   color: #2e2f42;
 }
 
-.p {
-  line-height: 1.5;
-  color: #f4f4fd;
-  letter-spacing: 0.02em;
-}
-
-.nav a {
+ul a {
+  font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
 
-a:hover {
-  color: #2e2f42;
-}
-
-a:focus {
+ul a:hover {
   color: #404bbf;
 }
 
-button {
+section button {
   color: #ffffff;
   background-color: #4d5ae5;
   font-weight: 500;
@@ -75,4 +84,20 @@ button:hover {
 
 button:focus {
   background-color: #404bbf;
+}
+
+address {
+  font-style: normal;
+}
+
+section {
+  background-color: #2e2f42;
+}
+
+section h1 {
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #ffffff;
 }
