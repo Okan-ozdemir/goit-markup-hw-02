@@ -15,7 +15,7 @@ body {
   color: #4d5ae5;
 }
 
-anasayfa-span {
+span {
   color: #2e2f42;
 }
 
@@ -138,11 +138,11 @@ line-height: 1.2;
 letter-spacing: 0.02em;
 color: #2e2f42'
 }
-footer-p{
+footer p{
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #F4F4FD;
 }
-footer_section-span{
+footer_section span{
   color: #2e2f42;
 }
