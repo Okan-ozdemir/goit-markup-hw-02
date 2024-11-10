@@ -62,7 +62,7 @@ color: #404bbf;
 /* header area */
 
 /* first section */
-section{
+section hero{
   background-color: #2e2f42;
 }
 
@@ -111,7 +111,7 @@ p{
 
 /* third section */
 
-section {
+section portfolio{
 background-color: #f4f4fd;
 }
 
