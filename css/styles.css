@@ -24,7 +24,7 @@ span {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #434455;
+  color: #2e2f42;
 }
 
 .menu_item:hover,
@@ -48,10 +48,21 @@ span {
 .contact_item:focus {
   color: #404bbf;
 }
+
+.menu-item a{
+color: #2e2f42;
+}
+a:hover{
+color: #404bbf;
+}
+a:focus{
+color: #404bbf;
+}
+
 /* header area */
 
 /* first section */
-.hero {
+.hero{
   background-color: #2e2f42;
 }
 
@@ -82,7 +93,7 @@ button:focus {
 /* first section */
 
 /* second section */
-h3 {
+h3{
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -90,7 +101,7 @@ h3 {
   color: #2e2f42;
 }
 
-p {
+p{
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -99,6 +110,11 @@ p {
 /* second section */
 
 /* third section */
+
+section abc{
+background-color: #f4f4fd;
+}
+
 h2 {
   font-size: 36px;
   line-height: 1.11;
@@ -108,8 +124,25 @@ h2 {
   color: #2e2f42;
 }
 
-.Team {
-  background-color: #f4f4fd;
-}
-
 /* third section */
+
+/* four section */
+
+footer{
+background-color: #2e2f42; 
+}
+footer h3{
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42'
+}
+footer p{
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #F4F4FD;
+}
+ footer_s{
+  color: #2e2f42;
+}
