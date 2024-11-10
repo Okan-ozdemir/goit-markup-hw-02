@@ -58,9 +58,7 @@ color: #404bbf;
 a:focus{
 color: #404bbf;
 }
-section hero{
-background-color: #f4f4fd;
-}
+
 /* header area */
 
 /* first section */
@@ -112,6 +110,11 @@ p{
 /* second section */
 
 /* third section */
+
+section {
+background-color: #f4f4fd;
+}
+
 h2 {
   font-size: 36px;
   line-height: 1.11;
