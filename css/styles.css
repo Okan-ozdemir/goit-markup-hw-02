@@ -51,7 +51,7 @@ span {
 /* header area */
 
 /* first section */
-section {
+.hero {
   background-color: #2e2f42;
 }
 
